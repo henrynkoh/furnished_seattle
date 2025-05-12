@@ -102,7 +102,7 @@ export default function HomePage() {
               </div>
               <div className="md:w-1/2 relative min-h-[300px]">
                 <Image 
-                  src="https://images.unsplash.com/photo-1600607687644-c7531e456065?ixlib=rb-4.0.3"
+                  src="https://images.unsplash.com/photo-1600607687644-c7531e456065?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
                   alt="Property listing" 
                   fill
                   className="object-cover"

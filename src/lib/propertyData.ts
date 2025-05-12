@@ -36,7 +36,7 @@ export const properties: Property[] = [
     squareFeet: 650,
     availableFrom: '2023-08-15',
     amenities: ['Wi-Fi', 'In-unit laundry', 'Dishwasher', 'Parking', 'Gym', 'Rooftop deck'],
-    images: ['https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3'],
+    images: ['https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'],
     isFeatured: true,
     coordinates: {
       lat: 47.623184,
@@ -56,7 +56,7 @@ export const properties: Property[] = [
     squareFeet: 1200,
     availableFrom: '2023-09-01',
     amenities: ['Wi-Fi', 'In-unit laundry', 'Dishwasher', 'Parking', 'Patio', 'Fireplace'],
-    images: ['https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-4.0.3'],
+    images: ['https://images.unsplash.com/photo-1493809842364-78817add7ffb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'],
     isFeatured: true,
     coordinates: {
       lat: 47.668693,
@@ -76,7 +76,7 @@ export const properties: Property[] = [
     squareFeet: 750,
     availableFrom: '2023-08-01',
     amenities: ['Wi-Fi', 'In-unit laundry', 'Dishwasher', 'Parking', 'Gym', 'Pool', 'Concierge'],
-    images: ['https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3'],
+    images: ['https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'],
     isFeatured: false,
     coordinates: {
       lat: 47.610789,
@@ -96,7 +96,7 @@ export const properties: Property[] = [
     squareFeet: 450,
     availableFrom: '2023-07-15',
     amenities: ['Wi-Fi', 'Laundry in building', 'Dishwasher', 'Rooftop access'],
-    images: ['https://images.unsplash.com/photo-1536376072261-38c75010e6c9?ixlib=rb-4.0.3'],
+    images: ['https://images.unsplash.com/photo-1536376072261-38c75010e6c9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'],
     isFeatured: false,
     coordinates: {
       lat: 47.623957,
@@ -116,7 +116,7 @@ export const properties: Property[] = [
     squareFeet: 1050,
     availableFrom: '2023-08-01',
     amenities: ['Wi-Fi', 'In-unit laundry', 'Dishwasher', 'Parking', 'Gym', 'Pool', 'Concierge'],
-    images: ['https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?ixlib=rb-4.0.3'],
+    images: ['https://images.unsplash.com/photo-1505873242700-f289a29e1e0f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'],
     isFeatured: true,
     coordinates: {
       lat: 47.615035,
@@ -136,7 +136,7 @@ export const properties: Property[] = [
     squareFeet: 1800,
     availableFrom: '2023-09-15',
     amenities: ['Wi-Fi', 'In-unit laundry', 'Dishwasher', 'Parking', 'Garden', 'Deck'],
-    images: ['https://images.unsplash.com/photo-1633505892078-9ca23e53857e?ixlib=rb-4.0.3'],
+    images: ['https://images.unsplash.com/photo-1633505892078-9ca23e53857e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'],
     isFeatured: false,
     coordinates: {
       lat: 47.651445,
