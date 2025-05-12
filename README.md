@@ -1,5 +1,9 @@
 # Furnished Seattle
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/henrynkoh/furnished_seattle)](https://github.com/henrynkoh/furnished_seattle/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/henrynkoh/furnished_seattle)](https://github.com/henrynkoh/furnished_seattle)
+[![TypeScript](https://img.shields.io/badge/TypeScript-97.9%25-blue)](https://github.com/henrynkoh/furnished_seattle)
+
 A Next.js application for finding and listing furnished rentals in the greater Seattle area, targeting medical professionals, travel nurses, and short-term visitors.
 
 <p align="center">
